@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samuelogu/hardhat/issues"
   },
-  "homepage": "https://github.com/samuelogu/hardhat#readme"
+  "homepage": "https://github.com/samuelogu/hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.7.0"
+  }
 }
