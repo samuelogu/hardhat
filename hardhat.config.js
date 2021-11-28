@@ -1,7 +1,5 @@
 require("@nomiclabs/hardhat-waffle")
 require('dotenv').config()
-// const fs = require('fs')
-// const privateKey = fs.readFileSync(".secret").toString().trim() || "01234567890123456789"
 const privateKey = process.env.privateKey;
 const infuraKey = process.env.infuraKey;
 
