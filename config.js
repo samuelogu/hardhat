@@ -6,5 +6,5 @@
 module.exports = {
     nftmarketaddress: '0xA07855b764A2384EeCe420825A16bfcf3a2A1a34',
     nftaddress: '0x4CDcE4d6c1fdE265cAC1b796cbEf988669C584Bd',
-    mumbaiRpcUrl: 'https://polygon-mumbai.infura.io/v3/58be999dc0b04321b8d6739657997d45'
+    rpcUrl: 'https://polygon-mumbai.infura.io/v3/58be999dc0b04321b8d6739657997d45'
 }
